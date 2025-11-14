@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+.delius-regular {
+  font-family: "Delius", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
 body {
-  font-family: 'Comic Sans MS', cursive;
+  font-family: "Delius", cursive;
   background-color: #ffe9a3;
   margin: 0;
   padding: 0;
@@ -12,7 +22,7 @@ header {
   background-color: #f55fb1; 
   color: white;
   width: 100%;
-  font-family: "Comic Sans MS", sans-serif;
+  font-family: "Delius", cursive;
 }
 
 
